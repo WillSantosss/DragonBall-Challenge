@@ -12,7 +12,7 @@ Uma pequena aplicação para facilitar a pronuncia de cores em inglês por voz, 
 
 ### Outras tecnologias utilizadas
 
-* API Chrome
+* API de voz do Chrome
 
 ![DragonBall](https://github.com/WillSantosss/Imgs/blob/master/DragonBall.jpg)
 
