@@ -1,5 +1,5 @@
 var engine = {
-    "cores": ['green', 'purple', 'pink', 'red','yellow', 'orange', 'blue', 'black', 'brown', 'white', 'grey'],
+    "cores": ['green', 'purple', 'pink', 'red','yellow', 'orange', 'blue', 'black', 'brown', 'white', 'gray'],
     "hexadecimais":{
         'green' : '#008000',
         'purple' : '#800080',
@@ -11,7 +11,7 @@ var engine = {
         'black': '#141414',
         'brown': '#8B4513',
         'white': '#FFFFFF',
-        'grey': '#808080',
+        'gray': '#808080',
 
 
     },
@@ -20,6 +20,7 @@ var engine = {
 
 const audioMoeda = new Audio('audio/taiyoken.wav');
 const audioErrou = new Audio('audio/explosao.wav');
+
 
 function sortearCor(){
     var indexcorSorteada = Math.floor(Math.random() * engine.cores.length);
