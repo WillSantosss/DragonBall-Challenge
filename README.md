@@ -14,6 +14,6 @@ Uma pequena aplicação para facilitar a pronúncia de cores em inglês por voz,
 
 * API de voz do Chrome
 
-![DragonBall](https://github.com/WillSantosss/Imgs/blob/master/DragonBall.jpg)
+![DragonBallEnglish](https://github.com/WillSantosss/Imgs/blob/master/DragonBall.jpg)
 
 
